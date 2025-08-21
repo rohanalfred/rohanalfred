@@ -1,7 +1,7 @@
 
+<img src="https://github.com/rohanalfred/rohanalfred/blob/main/Banner.png?raw=true" alt="Banner de José Alfredo" style="width:100%;"/>
 
 ```markdown
-<img src="https://github.com/rohanalfred/rohanalfred/blob/main/Banner.png?raw=true" alt="Banner de José Alfredo" style="width:100%;"/>
 
 
 # 👋 ¡Hola! Soy José
