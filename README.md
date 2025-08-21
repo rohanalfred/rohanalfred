@@ -4,7 +4,7 @@
 ```markdown
 
 
-# 👋 ¡Hola! Soy José
+# 👋 ¡Hola! Soy José Alfredo
 
 🎯 Junior Data Scientist con una sólida formación en Ingeniería de Sistemas y experiencia supervisando operaciones de inventario y ERP en Staples. Actualmente desarrollo modelos predictivos y soluciones de machine learning para resolver problemas reales de negocio.
 
